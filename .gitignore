@@ -1,0 +1,6 @@
+FluentMigrator Templates/bin/
+FluentMigrator Templates/obj/
+FluentMigrator Templates.Tests/bin/
+FluentMigrator Templates.Tests/obj/
+*.suo
+*.user
